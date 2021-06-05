@@ -12,10 +12,10 @@ variables:
   azureSubscription: '5dc1a0f7-5c5c-458c-95b6-2d1da9d3419e'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'my-app-koumr'
 
   # Environment name
-  environmentName: 'connect-to-myapp-rg'
+  environmentName: 'my-app-koumr'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
