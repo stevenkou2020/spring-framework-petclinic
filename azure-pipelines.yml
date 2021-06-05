@@ -15,7 +15,7 @@ variables:
   webAppName: ''
 
   # Environment name
-  environmentName: ''
+  environmentName: 'connect-to-myapp-rg'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
